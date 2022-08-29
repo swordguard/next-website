@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/_document": "pages/_document.js",
+  "/en-AU/404": "pages/en-AU/404.html",
+  "/zh-CN/404": "pages/zh-CN/404.html",
+  "/en-AU/500": "pages/en-AU/500.html",
+  "/zh-CN/500": "pages/zh-CN/500.html",
+  "/en-AU": "pages/en-AU.html",
+  "/zh-CN": "pages/zh-CN.html"
+}
