@@ -1,5 +1,6 @@
 {
   "name": "next-website",
+  "homepage": "http://www.microsun.com.au/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
